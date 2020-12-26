@@ -1,7 +1,7 @@
 my_packages = c("datasets")
 
 install_if_missing = function(p){
-  if(p %in% rownames(install.packages()) == FALSE){
+  if(p %in% rownames(installed.packages()) == FALSE){
     install.packages(p)
   }
 }
