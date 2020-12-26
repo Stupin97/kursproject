@@ -3,7 +3,7 @@
     "path": "C:/Project/KursProjectOT/ui.R",
     "project_path": "ui.R",
     "type": "r_source",
-    "hash": "3465347808",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1608962989541.0,
@@ -11,8 +11,8 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "41,14",
-        "scrollLine": "15"
+        "cursorPosition": "5,27",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1608978895,
